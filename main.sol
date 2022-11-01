@@ -1,5 +1,11 @@
 // pragma solidity ^0.4.0;
 
+
+
+
+
+
+
 contract ReentrancyBenign {
     uint8 counter = 0;
 
